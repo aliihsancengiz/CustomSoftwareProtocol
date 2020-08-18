@@ -1,0 +1,6 @@
+syntax="proto2";
+
+message comMessage{
+	required uint32 pot_val1=1;
+	required uint32 pot_val2=2;
+}
